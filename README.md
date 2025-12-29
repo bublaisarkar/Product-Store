@@ -21,6 +21,10 @@ https://cogzin-product-store.great-site.net/
 
 ## 📸 Screenshots
 <img width="1314" height="629" alt="image" src="https://github.com/user-attachments/assets/fe212865-0df5-400b-9d5d-cecf57137ff8" />
+<<<<<<< HEAD
+=======
+
+>>>>>>> bb26816eaad82a022166760b3ee2f6ef7ecd5cf4
 
 ## 📂 Project Structure
 ```text
