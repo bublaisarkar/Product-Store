@@ -20,7 +20,7 @@ https://cogzin-product-store.great-site.net/
 * **Tools:** phpMyAdmin, XAMPP, Git
 
 ## 📸 Screenshots
-
+<img width="1314" height="629" alt="image" src="https://github.com/user-attachments/assets/fe212865-0df5-400b-9d5d-cecf57137ff8" />
 
 ## 📂 Project Structure
 ```text
